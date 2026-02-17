@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=rect&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Mohammad%20Sajidh%20Ali&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20•%20ASP.NET&descSize=20&descAlignY=60&animation=fadeIn)
+
+
 ## 👨‍💻 About Me
 
 Full-Stack Developer experienced in building production-ready web applications using React.js, Node.js, Express.js, MongoDB, SQL, and ASP.NET. 
