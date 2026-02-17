@@ -75,7 +75,6 @@ Completed 3 software development internships with hands-on experience in REST AP
 * Integrated REST APIs to power dynamic data rendering, enhancing application interactivity.
 * Followed structured Git workflows and code review practices to ensure clean, maintainable deployments.
 
---
 ## 🔗 Connect
 
 <p>
