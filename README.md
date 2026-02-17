@@ -1,16 +1,39 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Mohammad%20Sajidh%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=60&descSize=20)
 
-<!--
-**sajidhseven/sajidhseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2C5364&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Applications;AI+Enthusiast" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a passionate Software Developer focused on building scalable, high-performance web applications.  
+I specialize in full-stack development and modern JavaScript technologies.
+
+---
+
+## 🛠 Tech Stack
+
+- JavaScript / TypeScript  
+- React.js / Next.js  
+- Node.js / Express.js  
+- MongoDB  
+- REST APIs  
+- AI Integrations  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your link here  
+- Portfolio: Add your website here  
+- Email: yourmail@example.com  
