@@ -1,3 +1,11 @@
+## 👨‍💻 About Me
+
+Full-Stack Developer experienced in building production-ready web applications using React.js, Node.js, Express.js, MongoDB, SQL, and ASP.NET. 
+
+Specialized in LMS platforms, admin dashboards, authentication systems, e-commerce websites, and responsive UI development. Experienced in deploying applications on Vercel and Netlify, managing site indexing with Google Search Console, and developing WhatsApp automation workflows using n8n.
+
+Completed 3 software development internships with hands-on experience in REST API development, testing using Postman and Swagger, and delivering scalable freelance web solutions.
+
 **Tech Stack**
 
 **Frontend**
