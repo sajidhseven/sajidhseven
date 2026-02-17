@@ -1,39 +1,78 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Mohammad%20Sajidh%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=60&descSize=20)
+🛠 Tech Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2C5364&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Applications;AI+Enthusiast" />
+---
+
+Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="45"/>
+</p>
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="45"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+Backend
 
-I am a passionate Software Developer focused on building scalable, high-performance web applications.  
-I specialize in full-stack development and modern JavaScript technologies.
-
----
-
-## 🛠 Tech Stack
-
-- JavaScript / TypeScript  
-- React.js / Next.js  
-- Node.js / Express.js  
-- MongoDB  
-- REST APIs  
-- AI Integrations  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+Database
 
-- LinkedIn: Add your link here  
-- Portfolio: Add your website here  
-- Email: yourmail@example.com  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
+</p>
+
+---
+
+Deployment & Tools
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+</p>
+
+---
+
+Programming Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+</p>
+
+---
+
+Automation
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" height="45"/>
+</p>
+
+---
+
+Core Expertise
+
+- LMS Dashboard Development  
+- Admin Panel Systems  
+- Authentication & Authorization  
+- REST API Development  
+- Responsive UI Engineering
