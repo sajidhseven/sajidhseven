@@ -52,13 +52,14 @@ Completed 3 software development internships with hands-on experience in REST AP
 <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>  
 
 
-**Core Expertise**
+## 🔐 Core Expertise
 
-- LMS Dashboard Development  
-- Admin Panel Systems  
-- Authentication & Authorization  
-- REST API Development  
-- Responsive UI Engineering
+- Enterprise LMS Architecture & Dashboard Development  
+- Scalable Admin Panel & Role-Based Management Systems  
+- Secure Authentication & Authorization (JWT, Session-Based)  
+- RESTful API Design & Integration  
+- Responsive & Performance-Optimized UI Engineering  
+
 
 ## 💼 Experience
 **DBase Solutions Pvt. Ltd. — Software Developer Intern**
