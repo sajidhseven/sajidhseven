@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=240&color=0:0B1D26,50:1B3A4B,100:274C5E&text=Mohammad%20Sajidh%20Ali&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineer&descSize=22&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&height=240&color=0:D8DEE9,50:E5E9F0,100:ECEFF4&text=Mohammad%20Sajidh%20Ali&fontSize=48&fontColor=2E3440&fontAlignY=38&desc=Software%20Engineer&descSize=22&descAlignY=60&animation=fadeIn)
+
 
 
 
