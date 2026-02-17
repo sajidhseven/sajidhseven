@@ -56,33 +56,19 @@ Completed 3 software development internships with hands-on experience in REST AP
 - REST API Development  
 - Responsive UI Engineering
 
-## 💼 Professional Experience
-Software Developer Intern
+## 💼 Experience
+DBase Solutions Pvt. Ltd. — Software Developer Intern (June 2025 – Present • Eluru)
 
-DBase Solutions Pvt Ltd, Eluru
-June 2025 – Present
+• Built and scaled LMS and university application dashboards used by internal operational teams, supporting 1000+ active users.
+• Developed reusable UI component architecture, reducing feature development time by ~30%.
+• Integrated backend APIs to enable real-time workflows, improving data accuracy and reducing manual processing.
+• Optimized application performance through code-splitting, lazy loading, and caching strategies, reducing perceived load time by ~35%.
+• Improved mobile responsiveness and accessibility, increasing cross-device usability across platforms.
+• Actively contributed to Agile sprint cycles, participating in architecture discussions and maintaining high code quality standards.
 
-Building scalable LMS and university application platforms used by internal operational teams.
+Numetry Technologies — Software Developer Intern (Sep 2024 – Jan 2025)
 
-Architecting and developing responsive React.js dashboards with modular, reusable component systems.
-
-Integrating frontend systems with ASP.NET REST APIs to enable real-time workflows and seamless data exchange.
-
-Improving performance, mobile responsiveness, and load optimization across core platforms.
-
-Collaborating in Agile/Scrum teams, contributing to sprint planning, code reviews, and scalable architecture decisions.
-
-Tech: React.js · JavaScript · ASP.NET · SQL · REST APIs · HTML · CSS
-
-Software Developer Intern
-
-Numetry Technologies
-Sep 2024 – Jan 2025
-
-Delivered full-stack features for client-facing applications in a fast-paced Agile environment.
-
-Built responsive UI modules aligned with Figma design systems.
-
-Integrated REST APIs to power dynamic, data-driven React applications.
-
-Contributed across frontend and backend layers while maintaining clean Git workflows.
+• Delivered full-stack features for multiple client projects in a fast-paced Agile environment.
+• Implemented responsive UI modules aligned with design systems, improving user experience consistency.
+• Integrated REST APIs to power dynamic data rendering, enhancing application interactivity.
+• Followed structured Git workflows and code review practices to ensure clean, maintainable deployments.
