@@ -6,7 +6,7 @@ Specialized in LMS platforms, admin dashboards, authentication systems, e-commer
 
 Completed 3 software development internships with hands-on experience in REST API development, testing using Postman and Swagger, and delivering scalable freelance web solutions.
 
-**Tech Stack**
+## Tech Stack
 
 **Frontend**
 
