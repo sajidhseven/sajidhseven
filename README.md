@@ -74,3 +74,24 @@ Completed 3 software development internships with hands-on experience in REST AP
 * Implemented responsive UI modules aligned with design systems, improving user experience consistency.
 * Integrated REST APIs to power dynamic data rendering, enhancing application interactivity.
 * Followed structured Git workflows and code review practices to ensure clean, maintainable deployments.
+
+--
+## 🔗 Connect
+
+<p>
+  <a href="mailto:sajidhmohammad121@gmail.com">
+    <img src="https://img.shields.io/badge/Email-112240?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+
+  <a href="https://sajidh-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-112240?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mohammad-sajidh-ali-633bb3212" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-112240?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+
+  <a href="https://github.com/sajidhseven" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-112240?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
+</p>
