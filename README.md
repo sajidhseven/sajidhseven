@@ -80,6 +80,64 @@ Completed 3 software development internships with hands-on experience in REST AP
 * Integrated REST APIs to power dynamic data rendering, enhancing application interactivity.
 * Followed structured Git workflows and code review practices to ensure clean, maintainable deployments.
 
+## 🚀 Projects
+
+---
+
+### 🏢 Employee Management Dashboard
+
+Built a production-ready role-based employee management system designed to simulate real-world organizational workflows.
+
+- Architected a role-based access control (RBAC) system enabling secure separation between Admin and Employee capabilities.
+- Designed scalable REST APIs to handle authentication, employee lifecycle management, and dashboard analytics.
+- Structured backend logic for secure session handling, protected routes, and permission-aware data access.
+- Modeled database schemas for efficient querying, indexing, and secure user management.
+- Optimized frontend rendering to ensure smooth dashboard interactions across devices.
+
+**Engineering Focus:** Access control architecture, backend scalability, secure authentication flow, clean separation of concerns.
+
+---
+
+### 🛍 Fashion E-Commerce Platform
+
+Engineered a full-stack commerce application replicating real-world e-commerce workflows.
+
+- Designed modular product, cart, and order management architecture.
+- Implemented secure authentication and session persistence for customer accounts.
+- Built RESTful APIs to handle product inventory, user data, and transaction workflows.
+- Structured backend logic for scalable data operations and future payment integration.
+- Deployed using CI/CD pipeline with production-ready configuration and environment management.
+
+**Engineering Focus:** Scalable API design, state management, deployment pipelines, production architecture.
+
+---
+
+### 🤖 Gemini AI Chatbot
+
+Developed an AI-powered conversational interface integrating large language model APIs for real-time response generation.
+
+- Architected frontend prompt-response flow with dynamic state updates and streaming-like UX behavior.
+- Implemented API abstraction layer for handling AI requests, error recovery, and rate-limit resilience.
+- Structured conversation management logic to maintain session continuity.
+- Optimized UI responsiveness for smooth conversational interaction.
+
+**Engineering Focus:** API orchestration, async handling, real-time UX patterns, AI integration architecture.
+
+---
+
+### 📲 WhatsApp Automation (n8n)
+
+Designed and configured automated WhatsApp workflows to streamline business communication processes.
+
+- Built automation pipelines using n8n for transactional messages and customer engagement.
+- Integrated WhatsApp Business API using secure API keys.
+- Implemented event-driven workflows triggered by backend events (form submissions, status updates, etc.).
+- Configured webhook listeners to process delivery updates and incoming responses.
+- Applied conditional logic, scheduling, and retry mechanisms to improve reliability.
+
+**Engineering Focus:** Workflow automation, API integration, event-driven systems.
+
+
 ## 🔴 Live/Public Projects
 
 * **Shopping Website (Fintraa)** — [https://shopping-fintraa.vercel.app/](https://shopping-fintraa.vercel.app/)
