@@ -55,3 +55,34 @@ Completed 3 software development internships with hands-on experience in REST AP
 - Authentication & Authorization  
 - REST API Development  
 - Responsive UI Engineering
+
+## 💼 Professional Experience
+Software Developer Intern
+
+DBase Solutions Pvt Ltd, Eluru
+June 2025 – Present
+
+Building scalable LMS and university application platforms used by internal operational teams.
+
+Architecting and developing responsive React.js dashboards with modular, reusable component systems.
+
+Integrating frontend systems with ASP.NET REST APIs to enable real-time workflows and seamless data exchange.
+
+Improving performance, mobile responsiveness, and load optimization across core platforms.
+
+Collaborating in Agile/Scrum teams, contributing to sprint planning, code reviews, and scalable architecture decisions.
+
+Tech: React.js · JavaScript · ASP.NET · SQL · REST APIs · HTML · CSS
+
+Software Developer Intern
+
+Numetry Technologies
+Sep 2024 – Jan 2025
+
+Delivered full-stack features for client-facing applications in a fast-paced Agile environment.
+
+Built responsive UI modules aligned with Figma design systems.
+
+Integrated REST APIs to power dynamic, data-driven React applications.
+
+Contributed across frontend and backend layers while maintaining clean Git workflows.
