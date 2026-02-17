@@ -137,6 +137,7 @@ Designed and configured automated WhatsApp workflows to streamline business comm
 
 **Engineering Focus:** Workflow automation, API integration, event-driven systems.
 
+---
 
 ## 🔴 Live/Public Projects
 
