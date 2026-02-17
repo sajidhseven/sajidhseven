@@ -75,6 +75,13 @@ Completed 3 software development internships with hands-on experience in REST AP
 * Integrated REST APIs to power dynamic data rendering, enhancing application interactivity.
 * Followed structured Git workflows and code review practices to ensure clean, maintainable deployments.
 
+## 🔴 Live/Public Projects
+
+* **Shopping Website (Fintraa)** — [https://shopping-fintraa.vercel.app/](https://shopping-fintraa.vercel.app/)
+* **Gemini AI Chatbot** — [https://gemini-ai-v3.vercel.app/](https://gemini-ai-v3.vercel.app/)
+* **LMS Platform** — [https://5mantra.dbasesolutions.in/](https://5mantra.dbasesolutions.in/)
+* **Skill Ascent Landing Page** — [https://skillascent.in/](https://skillascent.in/)
+
 ## 🔗 Connect
 
 <p>
