@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Mohammad%20Sajidh%20Ali&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20•%20ASP.NET&descSize=20&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&height=230&color=0:E6E9F0,100:EEF1F5&text=Mohammad%20Sajidh%20Ali&fontSize=48&fontColor=1A202C&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20•%20ASP.NET&descSize=20&descAlignY=60&animation=fadeIn)
+
 
 
 ## 👨‍💻 About Me
